@@ -1,5 +1,17 @@
 # E-Commerce
 
+## Problem
+
+```
+Develop a front-end page for an e-commerce application. Build a blog site with the following elements:
+  - A front-end to display the blog.
+  - A database to store the content.
+  - CRUD Operations
+
+Create a GitHub repository and push the code of the above two questions.
+```
+
+
 ## Run Locally
 
 ### 1. Clone repo
