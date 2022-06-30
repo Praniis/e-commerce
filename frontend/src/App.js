@@ -314,7 +314,7 @@ function App() {
         </main>
         <footer className="row center">
           {userInfo && !userInfo.isAdmin && <ChatBox userInfo={userInfo} />}
-          <div>All right reserved</div>{' '}
+          <div>Made for ProtoSem 22.1</div>{' '}
         </footer>
       </div>
     </BrowserRouter>

@@ -55,7 +55,7 @@ a {
 }
 
 a:hover {
-  color: #ff8000;
+  color: #F66E00;
 }
 
 /* Header */
@@ -113,6 +113,6 @@ img.medium {
 
 /* Rating */
 .rating span {
-  color: #f0c040;
+  color: #6A5C55;
   margin: 0.1rem;
 }

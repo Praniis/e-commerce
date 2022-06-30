@@ -27,7 +27,7 @@ body {
 }
 header {
   grid-area: header;
-  background-color: #203040;
+  background-color: #453C38;
 }
 main {
   grid-area: main;
@@ -35,8 +35,8 @@ main {
 }
 footer {
   grid-area: footer;
-  background-color: #203040;
-  color: #ffffff;
+  background-color: #453C38;
+  color: #DCD7C9;
 }
 /* Common */
 h1 {
@@ -52,7 +52,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #ff8000;
+  color: #F66E00;
 }
 ul {
   padding: 0;
@@ -85,7 +85,7 @@ button:hover {
   border: 0.1rem #404040 solid;
 }
 button.primary {
-  background-color: #f0c040;
+  background-color: #6A5C55;
 }
 button.block {
   width: 100%;
@@ -212,7 +212,7 @@ img.large {
 }
 /* Rating */
 .rating span {
-  color: #f0c040;
+  color: #6A5C55;
   margin: 0.1rem;
 }
 .rating span:last-child {
